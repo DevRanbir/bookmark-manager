@@ -1,0 +1,401 @@
+/* Base theme variables are already defined in App.css */
+
+/* Theme Modal Styles */
+.theme-selector-modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 2000;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+    backdrop-filter: blur(4px);
+  }
+  
+  .theme-selector-modal.open {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .theme-selector-content {
+    background-color: var(--card-bg);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    width: 90%;
+    max-width: 600px;
+    max-height: 90vh;
+    overflow-y: auto;
+    padding: 1.5rem;
+    border: 1px solid var(--border);
+  }
+  
+  .theme-selector-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.75rem;
+    border-bottom: 1px solid var(--border);
+  }
+  
+  .theme-selector-header h3 {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--text-primary);
+    margin: 0;
+  }
+  
+  .close-button {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: var(--text-secondary);
+  }
+  
+  .predefined-themes,
+  .custom-theme {
+    margin-bottom: 2rem;
+  }
+  
+  .predefined-themes h4,
+  .custom-theme h4 {
+    font-size: 1rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    color: var(--text-primary);
+  }
+  
+  .theme-buttons {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+    gap: 1rem;
+  }
+  
+  .theme-button {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 0.75rem;
+    cursor: pointer;
+    transition: var(--transition);
+  }
+  
+  .theme-button:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-md);
+  }
+  
+  .theme-button.active {
+    border-color: var(--primary);
+    background-color: rgba(99, 102, 241, 0.1);
+  }
+  
+  .theme-preview {
+    width: 60px;
+    height: 60px;
+    border-radius: var(--radius-sm);
+    margin-bottom: 0.5rem;
+    border: 1px solid var(--border);
+    overflow: hidden;
+  }
+  
+  .theme-button span {
+    font-size: 0.875rem;
+    color: var(--text-primary);
+  }
+  
+  /* Theme Preview Colors */
+  .theme-preview.light-theme {
+    background: linear-gradient(135deg, #f9fafb 50%, #ffffff 50%);
+    border: 1px solid #e5e7eb;
+  }
+  
+  .theme-preview.dark-theme {
+    background: linear-gradient(135deg, #1f2937 50%, #111827 50%);
+    border: 1px solid #374151;
+  }
+  
+  .theme-preview.sunset-theme {
+    background: linear-gradient(135deg, #fde68a 50%, #f97316 50%);
+    border: 1px solid #fb923c;
+  }
+  
+  .theme-preview.ocean-theme {
+    background: linear-gradient(135deg, #e0f2fe 50%, #0ea5e9 50%);
+    border: 1px solid #38bdf8;
+  }
+  
+  .theme-preview.forest-theme {
+    background: linear-gradient(135deg, #dcfce7 50%, #16a34a 50%);
+    border: 1px solid #4ade80;
+  }
+  
+  /* Custom Theme Section */
+  .color-pickers {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  .color-picker {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .color-picker label {
+    font-size: 0.875rem;
+    color: var(--text-secondary);
+  }
+  
+  .color-picker input[type="color"] {
+    width: 100%;
+    height: 40px;
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    padding: 2px;
+    cursor: pointer;
+  }
+  
+  .preview-custom-theme {
+    margin-bottom: 1.5rem;
+    border-radius: var(--radius-md);
+    overflow: hidden;
+  }
+  
+  .preview-panel {
+    padding: 1rem;
+    border-radius: var(--radius-md);
+  }
+  
+  .preview-header {
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+  }
+  
+  .preview-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  
+  .preview-content button {
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: var(--radius-sm);
+    font-weight: 500;
+    cursor: pointer;
+    align-self: flex-start;
+  }
+  
+  .apply-custom-theme {
+    padding: 0.625rem 1.25rem;
+    background-color: var(--primary);
+    color: white;
+    border: none;
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 0.875rem;
+    transition: var(--transition);
+    width: 100%;
+  }
+  
+  .apply-custom-theme:hover {
+    background-color: var(--primary-hover);
+  }
+  
+  /* Theme Change Button in Sidebar */
+  .theme-change-button {
+    margin-top: auto;
+    padding: 0.75rem 1rem;
+    position: static;
+    width: 100%;
+    background-color: rgba(99, 102, 241, 0.1);
+    color: var(--primary);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    cursor: pointer;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    transition: var(--transition);
+  }
+  
+  .theme-change-button:hover {
+    background-color: rgba(99, 102, 241, 0.2);
+  }
+  
+  .theme-change-button svg {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+  
+  /* Theme Styles */
+  /* Light Theme (Default) */
+  .light-theme {
+    --primary: #6366f1;
+    --primary-hover: #4f46e5;
+    --background: #f9fafb;
+    --card-bg: #ffffff;
+    --text-primary: #1f2937;
+    --text-secondary: #6b7280;
+    --border: #e5e7eb;
+    --error: #ef4444;
+    --success: #10b981;
+  }
+  
+  /* Dark Theme */
+  .dark-theme {
+    --primary: #818cf8;
+    --primary-hover: #6366f1;
+    --background: #111827;
+    --card-bg: #1f2937;
+    --text-primary: #f9fafb;
+    --text-secondary: #d1d5db;
+    --border: #374151;
+    --error: #f87171;
+    --success: #34d399;
+  }
+  
+  /* Sunset Theme */
+  .sunset-theme {
+    --primary: #f97316;
+    --primary-hover: #ea580c;
+    --background: #fff7ed;
+    --card-bg: #ffffff;
+    --text-primary: #431407;
+    --text-secondary: #9a3412;
+    --border: #fed7aa;
+    --error: #ef4444;
+    --success: #10b981;
+  }
+  
+  /* Ocean Theme */
+  .ocean-theme {
+    --primary: #0ea5e9;
+    --primary-hover: #0284c7;
+    --background: #f0f9ff;
+    --card-bg: #ffffff;
+    --text-primary: #0c4a6e;
+    --text-secondary: #0369a1;
+    --border: #bae6fd;
+    --error: #ef4444;
+    --success: #10b981;
+  }
+  
+  /* Forest Theme */
+  .forest-theme {
+    --primary: #16a34a;
+    --primary-hover: #15803d;
+    --background: #f0fdf4;
+    --card-bg: #ffffff;
+    --text-primary: #14532d;
+    --text-secondary: #15803d;
+    --border: #bbf7d0;
+    --error: #ef4444;
+    --success: #10b981;
+  }
+  
+  /* Media Queries */
+  @media (max-width: 768px) {
+    .theme-buttons {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .color-pickers {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .theme-buttons {
+      grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .color-pickers {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* Styles for editable title */
+.title-edit-input {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background: transparent;
+    border: 1px solid var(--border, #ccc);
+    border-radius: 4px;
+    padding: 4px 8px;
+    color: var(--text-primary);
+    width: 100%;
+  }
+  
+  /* Styles for archived cards */
+  .card-archived {
+    background-color: rgba(240, 240, 240, 0.7);
+    border: 1px solid #e0e0e0;
+  }
+  
+  .disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+  
+  /* Make title clickable */
+  .title-container h1 {
+    cursor: pointer;
+  }
+  
+  /* Add hover effect to title pencil icon */
+  .title-container svg:hover {
+    transform: scale(1.1);
+  }
+
+
+  /* Add these styles to your App.css or create a new CSS file */
+
+.error-input {
+    border: 1px solid #ff3860 !important;
+    background-color: rgba(255, 56, 96, 0.05);
+  }
+  
+  .error-message {
+    color: #ff3860;
+    font-size: 0.8rem;
+    margin-top: 0.25rem;
+  }
+  
+  /* Style for the visit button when URL is invalid */
+  .visit-button:disabled {
+    background-color: #e9ecef;
+    cursor: not-allowed;
+  }
+  
+  /* Adding a tooltip to show when URL is invalid */
+  [title] {
+    position: relative;
+  }
+  
+  /* Ensure icon previews handle errors gracefully */
+  .icon-preview img {
+    max-width: 100px;
+    max-height: 100px;
+    display: block;
+    margin: 10px 0;
+    border-radius: 4px;
+  }
