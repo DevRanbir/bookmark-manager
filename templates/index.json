@@ -1,0 +1,65 @@
+{
+    "templates": [
+      {
+        "name": "Search Engine Essentials",
+        "description": "Find everything you need with these top search engines.",
+        "fileName": "search_engines.json",
+        "cardCount": 15
+      },
+      {
+        "name": "Daily News Digest",
+        "description": "Stay updated with the latest news and trends from trusted sources.",
+        "fileName": "news_digest.json",
+        "cardCount": 15
+      },
+      {
+        "name": "Email & Communication Hub",
+        "description": "Manage your emails and communication with ease.",
+        "fileName": "email_communication.json",
+        "cardCount": 15
+      },
+      {
+        "name": "Social Media Essentials",
+        "description": "Stay connected with friends and networks through popular social media platforms.",
+        "fileName": "social_media.json",
+        "cardCount": 15
+      },
+      {
+        "name": "Ultimate Shopping Guide",
+        "description": "Shop online effortlessly with these top e-commerce platforms.",
+        "fileName": "shopping.json",
+        "cardCount": 15
+      },
+      {
+        "name": "Banking & Finance Toolkit",
+        "description": "Manage your finances and payments securely with these banking platforms.",
+        "fileName": "banking_finance.json",
+        "cardCount": 15
+      },
+      {
+        "name": "Entertainment & Streaming Hub",
+        "description": "Watch, listen, and enjoy unlimited entertainment online.",
+        "fileName": "entertainment.json",
+        "cardCount": 15
+      },
+      {
+        "name": "Productivity Booster",
+        "description": "Enhance your workflow and organize tasks effectively.",
+        "fileName": "productivity.json",
+        "cardCount": 15
+      },
+      {
+        "name": "Learning & Education Pack",
+        "description": "Explore knowledge and develop new skills with these educational websites.",
+        "fileName": "education.json",
+        "cardCount": 15
+      },
+      {
+        "name": "Health & Fitness Guide",
+        "description": "Stay fit and monitor your health with these essential platforms.",
+        "fileName": "health_fitness.json",
+        "cardCount": 15
+      }
+    ]
+  }
+  

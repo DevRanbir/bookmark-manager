@@ -1,0 +1,246 @@
+[
+    {
+    "title": "Instagram",
+    "description": "Instagram is a photo and video sharing social networking service owned by Meta. Users can upload media, apply filters, organize with hashtags, and tag locations. It offers Stories, Reels, and IGTV features for short-form and long-form video content. Instagram has over 2 billion monthly active users worldwide.",
+    "tags": ["social media", "photo sharing", "video sharing"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png"
+    },
+    "url": "https://www.instagram.com",
+    "customTag": "social media, photo sharing",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "17bd1b95-364e-4963-b854-ed10b2abd10b",
+    "createdAt": "2025-03-15T08:31:28.549Z",
+    "isArchived": false
+    },
+    {
+    "title": "Facebook",
+    "description": "Facebook is a social networking service operated by Meta Platforms. It allows users to create profiles, share updates, photos and videos, join groups, and interact with friends and family. With over 3 billion monthly active users, it remains one of the world's most popular social media platforms.",
+    "tags": ["social media", "networking"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/600px-Facebook_f_logo_%282019%29.svg.png"
+    },
+    "url": "https://www.facebook.com",
+    "customTag": "social media, networking",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "28cf2ca6-573d-4f71-a3e7-51fc92cb5e0c",
+    "createdAt": "2025-03-15T08:32:15.621Z",
+    "isArchived": false
+    },
+    {
+    "title": "Twitter",
+    "description": "Twitter is a social media platform where users post and interact with messages known as 'tweets'. Tweets were originally restricted to 140 characters but were doubled to 280 in 2017. Registered users can post, like, retweet, and quote tweets, while unregistered users can only read them.",
+    "tags": ["social media", "microblogging"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/600px-Logo_of_Twitter.svg.png"
+    },
+    "url": "https://twitter.com",
+    "customTag": "social media, microblogging",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "39de3db7-684e-5082-b4f8-62ed03dc6f1d",
+    "createdAt": "2025-03-15T08:33:07.733Z",
+    "isArchived": false
+    },
+    {
+    "title": "LinkedIn",
+    "description": "LinkedIn is a business and employment-focused social media platform. It's primarily used for professional networking, including employers posting jobs and job seekers posting resumes. Founded in 2002, it has become the world's largest professional network with over 900 million members in more than 200 countries.",
+    "tags": ["social media", "professional", "networking"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png"
+    },
+    "url": "https://www.linkedin.com",
+    "customTag": "social media, professional networking",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "41ef4ec8-795f-6193-c5g9-73fe14ed7g2e",
+    "createdAt": "2025-03-15T08:34:12.867Z",
+    "isArchived": false
+    },
+    {
+    "title": "TikTok",
+    "description": "TikTok is a video-focused social networking service owned by ByteDance. It hosts a variety of short-form user videos, from 15 seconds to 10 minutes, in categories like pranks, stunts, tricks, jokes, dance, and entertainment. TikTok has over 1 billion monthly active users globally.",
+    "tags": ["social media", "video sharing"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a9/TikTok_logo.svg/600px-TikTok_logo.svg.png"
+    },
+    "url": "https://www.tiktok.com",
+    "customTag": "social media, short-form video",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "52fg5fd9-806g-7204-d6h0-84gf25fe8h3f",
+    "createdAt": "2025-03-15T08:35:24.912Z",
+    "isArchived": false
+    },
+    {
+    "title": "YouTube",
+    "description": "YouTube is an online video sharing and social media platform owned by Google. It allows users to upload, view, rate, share, add to playlists, report, comment on videos, and subscribe to other users. Available content includes video clips, TV show clips, music videos, documentaries, live streams, and more.",
+    "tags": ["social media", "video sharing"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/600px-YouTube_full-color_icon_%282017%29.svg.png"
+    },
+    "url": "https://www.youtube.com",
+    "customTag": "social media, video platform",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "63gh6ge0-917h-8315-e7i1-95hg36gf9i4g",
+    "createdAt": "2025-03-15T08:36:37.045Z",
+    "isArchived": false
+    },
+    {
+    "title": "Pinterest",
+    "description": "Pinterest is an image sharing and social media service designed to enable saving and discovery of information on the internet using images, animated GIFs, and videos in the form of pinboards. It allows users to create and manage theme-based image collections such as events, interests, and hobbies.",
+    "tags": ["social media", "image sharing"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pinterest_Logo.svg/600px-Pinterest_Logo.svg.png"
+    },
+    "url": "https://www.pinterest.com",
+    "customTag": "social media, visual discovery",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "74hi7hf1-028i-9426-f8j2-06ih47hg0j5h",
+    "createdAt": "2025-03-15T08:37:49.178Z",
+    "isArchived": false
+    },
+    {
+    "title": "Reddit",
+    "description": "Reddit is a social news aggregation, content rating, and discussion website. Registered users submit content to the site such as links, text posts, images, and videos, which are then voted up or down by other members. Posts are organized by subject into user-created boards called 'subreddits'.",
+    "tags": ["social media", "forum", "news aggregation"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/Reddit_logo_new.svg/600px-Reddit_logo_new.svg.png"
+    },
+    "url": "https://www.reddit.com",
+    "customTag": "social media, discussion forum",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "85ij8ig2-139j-0537-g9k3-17ji58ih1k6i",
+    "createdAt": "2025-03-15T08:39:01.233Z",
+    "isArchived": false
+    },
+    {
+    "title": "Snapchat",
+    "description": "Snapchat is a multimedia messaging app developed by Snap Inc. One of the principal features is that pictures and messages are usually only available for a short time before they become inaccessible to their recipients. The app has evolved to include Stories, Discover, and Spotlight features.",
+    "tags": ["social media", "messaging", "photo sharing"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/Snapchat_logo.svg/600px-Snapchat_logo.svg.png"
+    },
+    "url": "https://www.snapchat.com",
+    "customTag": "social media, ephemeral content",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "96jk9jh3-240k-1648-h0l4-28kj69ji2l7j",
+    "createdAt": "2025-03-15T08:40:13.387Z",
+    "isArchived": false
+    },
+    {
+    "title": "WhatsApp",
+    "description": "WhatsApp is a freeware, cross-platform messaging and Voice over IP service owned by Meta. It allows users to send text messages and voice messages, make voice and video calls, and share images, documents, user locations, and other content. WhatsApp's client application runs on mobile devices and is also accessible from desktop computers.",
+    "tags": ["social media", "messaging"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/600px-WhatsApp.svg.png"
+    },
+    "url": "https://www.whatsapp.com",
+    "customTag": "social media, messaging platform",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "07kl0ki4-351l-2759-i1m5-39lk70kj3m8k",
+    "createdAt": "2025-03-15T08:41:25.529Z",
+    "isArchived": false
+    },
+    {
+    "title": "Telegram",
+    "description": "Telegram is a cloud-based instant messaging service. It provides end-to-end encrypted video calling, VoIP, file sharing and several other features. It was launched for iOS on 14 August 2013 and Android in October 2013. Telegram is known for its emphasis on privacy, security, and open API.",
+    "tags": ["social media", "messaging"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/600px-Telegram_logo.svg.png"
+    },
+    "url": "https://telegram.org",
+    "customTag": "social media, secure messaging",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "18lm1lj5-462m-3860-j2n6-40ml81lk4n9l",
+    "createdAt": "2025-03-15T08:42:37.654Z",
+    "isArchived": false
+    },
+    {
+    "title": "Threads",
+    "description": "Threads is a social networking app developed by Meta Platforms as a companion to Instagram. It allows users to share text updates and join public conversations. Threads is designed to compete with Twitter and focuses on text-based posts and conversations rather than image and video sharing.",
+    "tags": ["social media", "microblogging"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Threads_%28app%29_logo.svg/600px-Threads_%28app%29_logo.svg.png"
+    },
+    "url": "https://www.threads.net",
+    "customTag": "social media, text sharing",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "29mn2mk6-573n-4971-k3o7-51nm92ml5o0m",
+    "createdAt": "2025-03-15T08:43:49.799Z",
+    "isArchived": false
+    },
+    {
+    "title": "Discord",
+    "description": "Discord is a VoIP and instant messaging social platform. Users have the ability to communicate with voice calls, video calls, text messaging, media and files in private chats or as part of communities called 'servers'. Discord is especially popular among gamers, but has expanded to various communities.",
+    "tags": ["social media", "messaging", "community"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Discord-Logo-Color.png/600px-Discord-Logo-Color.png"
+    },
+    "url": "https://discord.com",
+    "customTag": "social media, community platform",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "30no3nl7-684o-5082-l4p8-62on03nm6p1n",
+    "createdAt": "2025-03-15T08:45:01.925Z",
+    "isArchived": false
+    },
+    {
+    "title": "Twitch",
+    "description": "Twitch is a video live streaming service that focuses on video game live streaming, including broadcasts of esports competitions. In addition to gaming content, the platform offers music broadcasts, creative content, and 'in real life' streams. Twitch is owned by Amazon and has become a major platform for streamers to monetize their content.",
+    "tags": ["social media", "live streaming"],
+    "icon": {
+        "type": "image",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twitch_logo.svg/600px-Twitch_logo.svg.png"
+    },
+    "url": "https://www.twitch.tv",
+    "customTag": "social media, live streaming platform",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "41op4om8-795p-6193-m5q9-73po14on7q2o",
+    "createdAt": "2025-03-15T08:46:14.061Z",
+    "isArchived": false
+    },
+
+  {
+    "title": "Flickr",
+    "description": "Flickr is an image and video hosting service, as well as an online community. Launched in 2004, it allows users to share and embed personal photographs.",
+    "tags": [
+      "Wikipedia",
+      "social media"
+    ],
+    "icon": {
+      "type": "image",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Flickr_logo.svg/1024px-Flickr_logo.svg.png"
+    },
+    "url": "https://en.wikipedia.org/wiki/Flickr",
+    "customTag": "Wikipedia, social media",
+    "iconUrl": "",
+    "showIcon": true,
+    "id": "0j1k2l3m-364e-4963-b854-ed10b2abd10b",
+    "createdAt": "2025-03-15T08:31:28.549Z",
+    "isArchived": false
+  }
+]

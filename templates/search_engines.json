@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Google",
+        "description": "Google is the world's most popular search engine, providing fast and relevant search results, along with features like Google Images, Maps, and News.",
+        "tags": ["search engine", "web search", "Google"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg"
+        },
+        "url": "https://www.google.com",
+        "customTag": "search engine, web search",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "1a2b3c4d-1111-2222-3333-444455556666",
+        "createdAt": "2025-03-15T08:31:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Bing",
+        "description": "Bing is a search engine by Microsoft, offering web search, images, videos, maps, and AI-powered search enhancements.",
+        "tags": ["search engine", "Microsoft", "Bing"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bing_logo_%282016%29.svg"
+        },
+        "url": "https://www.bing.com",
+        "customTag": "search engine, Microsoft",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "2b3c4d5e-2222-3333-4444-555566667777",
+        "createdAt": "2025-03-15T08:32:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "DuckDuckGo",
+        "description": "DuckDuckGo is a privacy-focused search engine that does not track users and provides anonymous search results.",
+        "tags": ["search engine", "privacy", "DuckDuckGo"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/en/9/90/DuckDuckGo_logo.png"
+        },
+        "url": "https://www.duckduckgo.com",
+        "customTag": "search engine, privacy",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "3c4d5e6f-3333-4444-5555-666677778888",
+        "createdAt": "2025-03-15T08:33:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Yahoo Search",
+        "description": "Yahoo Search is a web search engine powered by Microsoft Bing, offering news, images, videos, and shopping search.",
+        "tags": ["search engine", "Yahoo", "web search"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Yahoo%21_logo.svg"
+        },
+        "url": "https://search.yahoo.com",
+        "customTag": "search engine, Yahoo",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "4d5e6f7g-4444-5555-6666-777788889999",
+        "createdAt": "2025-03-15T08:34:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Baidu",
+        "description": "Baidu is China's leading search engine, providing web search, images, videos, and AI-driven search features.",
+        "tags": ["search engine", "China", "Baidu"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Baidu.svg/2560px-Baidu.svg.png"
+        },
+        "url": "https://www.baidu.com",
+        "customTag": "search engine, China",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "5e6f7g8h-5555-6666-7777-888899990000",
+        "createdAt": "2025-03-15T08:35:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Yandex",
+        "description": "Yandex is Russia’s most popular search engine, offering web search, maps, email, and AI-based services.",
+        "tags": ["search engine", "Russia", "Yandex"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Yandex_logo_en.svg/1280px-Yandex_logo_en.svg.png"
+        },
+        "url": "https://www.yandex.com",
+        "customTag": "search engine, Russia",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "6f7g8h9i-6666-7777-8888-999900001111",
+        "createdAt": "2025-03-15T08:36:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Ecosia",
+        "description": "Ecosia is an eco-friendly search engine that plants trees with its ad revenue.",
+        "tags": ["search engine", "eco-friendly", "Ecosia"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Ecosia-logo.svg"
+        },
+        "url": "https://www.ecosia.org",
+        "customTag": "search engine, eco-friendly",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "7g8h9i0j-7777-8888-9999-000011112222",
+        "createdAt": "2025-03-15T08:37:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Startpage",
+        "description": "Startpage provides Google search results with enhanced privacy protection and no tracking.",
+        "tags": ["search engine", "privacy", "Startpage"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Startpage_logo.svg"
+        },
+        "url": "https://www.startpage.com",
+        "customTag": "search engine, privacy",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "8h9i0j1k-8888-9999-0000-111122223333",
+        "createdAt": "2025-03-15T08:38:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Swisscows",
+        "description": "Swisscows is a family-friendly search engine with a focus on privacy and data security.",
+        "tags": ["search engine", "privacy", "Swisscows"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Swisscows_logo.svg"
+        },
+        "url": "https://www.swisscows.com",
+        "customTag": "search engine, family-friendly",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "9i0j1k2l-9999-0000-1111-222233334444",
+        "createdAt": "2025-03-15T08:39:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Brave Search",
+        "description": "Brave Search is a privacy-focused search engine that delivers unbiased results without tracking users.",
+        "tags": ["search engine", "privacy", "Brave"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/52/Brave_logo.png"
+        },
+        "url": "https://search.brave.com",
+        "customTag": "search engine, privacy",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "10j1k2l3m-0000-1111-2222-333344445555",
+        "createdAt": "2025-03-15T08:40:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Wolfram Alpha",
+        "description": "Wolfram Alpha is a computational knowledge engine that provides factual answers and expert-level calculations.",
+        "tags": ["search engine", "computational", "Wolfram Alpha"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Wolfram_Alpha_logo.png"
+        },
+        "url": "https://www.wolframalpha.com",
+        "customTag": "search engine, knowledge engine",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "11k2l3m4n-1111-2222-3333-444455556666",
+        "createdAt": "2025-03-15T08:41:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "MetaGer",
+        "description": "MetaGer is an open-source search engine based in Germany, offering anonymous and decentralized search results.",
+        "tags": ["search engine", "privacy", "MetaGer"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Metager_logo.svg"
+        },
+        "url": "https://www.metager.org",
+        "customTag": "search engine, decentralized",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "12l3m4n5o-2222-3333-4444-555566667777",
+        "createdAt": "2025-03-15T08:42:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Mojeek",
+        "description": "Mojeek is an independent web search engine that prioritizes user privacy and does not track search history.",
+        "tags": ["search engine", "privacy", "Mojeek"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mojeek_Logo.svg"
+        },
+        "url": "https://www.mojeek.com",
+        "customTag": "search engine, independent",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "13m4n5o6p-3333-4444-5555-666677778888",
+        "createdAt": "2025-03-15T08:43:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Qwant",
+        "description": "Qwant is a European search engine that respects user privacy and does not track searches or store personal data.",
+        "tags": ["search engine", "privacy", "Qwant"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Qwant-Logo-2021.svg"
+        },
+        "url": "https://www.qwant.com",
+        "customTag": "search engine, privacy-focused",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "14n5o6p7q-4444-5555-6666-777788889999",
+        "createdAt": "2025-03-15T08:44:28.549Z",
+        "isArchived": false
+    },
+    {
+        "title": "Ekoru",
+        "description": "Ekoru is a search engine that uses its revenue to fund ocean and rainforest conservation projects.",
+        "tags": ["search engine", "eco-friendly", "Ekoru"],
+        "icon": {
+            "type": "image",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Ekoru_logo.png"
+        },
+        "url": "https://www.ekoru.org",
+        "customTag": "search engine, conservation",
+        "iconUrl": "",
+        "showIcon": true,
+        "id": "15o6p7q8r-5555-6666-7777-888899990000",
+        "createdAt": "2025-03-15T08:45:28.549Z",
+        "isArchived": false
+    }
+]
