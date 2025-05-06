@@ -1,11 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=RANBIR%20KHURANA&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=38&desc=Digital%20Architect%20%E2%80%A2%20Code%20Artisan%20%E2%80%A2%20Innovation%20Engineer&descAlignY=60&descAlign=50"/>
+  <p align="center">
+    -DevRanbir-
+  </p>
 </div>
 
 <p align="center">
-  <a href="https://github.com/DevRanbir/DevRanbir">
-    <img src="https://komarev.com/ghpvc/?username=DevRanbir&color=blueviolet&style=for-the-badge&label=COSMIC+VISITORS" alt="Profile Views"/>
-  </a>
   <a href="https://github.com/DevRanbir?tab=followers">
     <img src="https://img.shields.io/github/followers/DevRanbir?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black" alt="Followers"/>
   </a>
@@ -14,11 +14,9 @@
 <br>
 
 <div align="center">
-  
-  ```diff
-  + Crafting Digital Experiences That Transcend Ordinary Boundaries +
-  ```
-  
+  <p align="center" style="font-size: 1.2em; font-style: italic; max-width: 800px; margin: 0 auto;">
+    Driven by an unwavering passion for perfection, I transform complex challenges into elegant digital solutions. With a keen eye for detail and a commitment to innovation, I craft applications that not only meet requirements but exceed expectations, creating experiences that leave a lasting impact.
+  </p>
 </div>
 
 <br>
@@ -26,11 +24,9 @@
 <table align="center">
   <tr>
     <td width="50%">
-      <h3 align="center">🌌 COSMIC PRESENCE 🌌</h3>
+      <h3 align="center">COSMIC PRESENCE</h3>
       <p align="center">
         <a href="https://www.linkedin.com/in/ranbir-khurana-devranbir"><img width="85%" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"></a>
-        <br><br>
-        <a href="https://github.com/DevRanbir"><img width="85%" src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"></a>
         <br><br>
         <a href="https://devfolio.co/@DevRanbir"><img width="85%" src="https://img.shields.io/badge/Devfolio-Portfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white&labelColor=2962FF" alt="Devfolio"></a>
         <br><br>
@@ -38,7 +34,7 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">💫 CONNECT WITH ME 💫</h3>
+      <h3 align="center">CONNECT WITH ME</h3>
       <p align="center">
         <a href="https://discord.gg/pqdHTChM"><img width="85%" src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord"></a>
         <br><br>
@@ -73,7 +69,7 @@
 <table align="center" border="none">
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/gist/PatrickHallek/079b72b28a9a088b14a3a5d8b3e38526/raw/635824209d0c0dd159b01d9484dacf6ed5d39e21/sound-waves.svg" width="50" height="50">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" width="50" height="50" alt="Equalizer">
       <br>
       <b>Speech Viber</b>
       <br>
@@ -148,12 +144,6 @@
 <br>
 
 <div align="center">
-  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=DevRanbir&theme=radical&hide_border=true&background=0D1117" />
-</div>
-
-<br>
-
-<div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=DevRanbir&theme=redical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
 </div>
 
@@ -177,21 +167,21 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40" height="40" alt="Rocket"><br>
+        🚀<br>
         Create 5 revolutionary projects that solve humanity's digital challenges
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Cloud.png" width="40" height="40" alt="Cloud"><br>
+        ☁️<br>
         Ascend to mastery of cloud architecture and microservices orchestration
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="40" height="40" alt="Open Book"><br>
+        📖<br>
         Contribute significant enhancements to major open-source galaxies
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Teacher.png" width="40" height="40" alt="Teacher"><br>
+        👨‍🏫<br>
         Enlighten others through technical wisdom sharing and mentorship
       </td>
     </tr>
