@@ -3,13 +3,30 @@
 </div>
 
 <div align="center">
-  <a href="mailto:Ranbirkhurana195@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <!-- Professional Platforms -->
+  <a href="https://www.linkedin.com/in/ranbir-khurana-devranbir">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/DevRanbir">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- Add your LinkedIn and other social media when ready -->
+  <a href="https://devfolio.co/@DevRanbir">
+    <img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio"/>
+  </a>
+  <a href="https://unstop.com/u/Star_dust">
+    <img src="https://img.shields.io/badge/Unstop-00C7B7?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop"/>
+  </a>
+  
+  <!-- Communication & Social -->
+  <a href="https://discord.gg/pqdHTChM">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.instagram.com/devil.kingkhurana">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:Ranbirkhurana195@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </div>
 
 ## 👨‍💻 About Me
