@@ -11,33 +11,36 @@
     </a>
   </p>
 
-  <!-- Social Links with Modern Design -->
-  <div class="social-links" style="margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/ranbir-khurana-devranbir" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/DevRanbir" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://devfolio.co/@DevRanbir" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white" alt="Devfolio"/>
-    </a>
-    <a href="https://unstop.com/u/Star_dust" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Unstop-00C7B7?style=for-the-badge&logo=unstop&logoColor=white" alt="Unstop"/>
-    </a>
-  </div>
-
-  <!-- Contact Links -->
-  <div class="contact-links" style="margin: 20px 0;">
-    <a href="https://discord.gg/pqdHTChM" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-    </a>
-    <a href="https://www.instagram.com/devil.kingkhurana" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="mailto:Ranbirkhurana195@gmail.com" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
+  <!-- Social & Contact Links with Modern Design -->
+  <div style="background: linear-gradient(to right, #1a1b27, #2a2d43); padding: 20px; border-radius: 15px; margin: 30px 0; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px; margin-bottom: 20px;">
+      <!-- Professional Links -->
+      <a href="https://www.linkedin.com/in/ranbir-khurana-devranbir" style="transform: translateY(0); transition: all 0.3s ease; display: block; text-align: center;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" style="width: 100%; max-width: 150px;"/>
+      </a>
+      <a href="https://github.com/DevRanbir" style="transform: translateY(0); transition: all 0.3s ease; display: block; text-align: center;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub" style="width: 100%; max-width: 150px;"/>
+      </a>
+      <a href="https://devfolio.co/@DevRanbir" style="transform: translateY(0); transition: all 0.3s ease; display: block; text-align: center;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+        <img src="https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=white&style=flat-square" alt="Devfolio" style="width: 100%; max-width: 150px;"/>
+      </a>
+      <a href="https://unstop.com/u/Star_dust" style="transform: translateY(0); transition: all 0.3s ease; display: block; text-align: center;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+        <img src="https://img.shields.io/badge/Unstop-00C7B7?style=for-the-badge&logo=unstop&logoColor=white&style=flat-square" alt="Unstop" style="width: 100%; max-width: 150px;"/>
+      </a>
+    </div>
+    
+    <!-- Contact Links with Hover Effects -->
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 15px;">
+      <a href="https://discord.gg/pqdHTChM" style="transform: translateY(0); transition: all 0.3s ease; display: block; text-align: center;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat-square" alt="Discord" style="width: 100%; max-width: 150px;"/>
+      </a>
+      <a href="https://www.instagram.com/devil.kingkhurana" style="transform: translateY(0); transition: all 0.3s ease; display: block; text-align: center;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" alt="Instagram" style="width: 100%; max-width: 150px;"/>
+      </a>
+      <a href="mailto:Ranbirkhurana195@gmail.com" style="transform: translateY(0); transition: all 0.3s ease; display: block; text-align: center;" onmouseover="this.style.transform='translateY(-5px)'" onmouseout="this.style.transform='translateY(0)'">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Gmail" style="width: 100%; max-width: 150px;"/>
+      </a>
+    </div>
   </div>
 </div>
 
@@ -93,7 +96,7 @@ Passionate Full Stack Developer with a love for creating innovative solutions. I
 
 <!-- Recent Repositories -->
 <p>📌 Check out my latest repositories</p>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DevRanbir&repo=Speech-Viber&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=DevRanbir&repo=speechviber&theme=tokyonight" />
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevRanbir&repo=Bookmark-Manager&theme=tokyonight" />
 
 </div>
